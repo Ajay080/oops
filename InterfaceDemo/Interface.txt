@@ -1,0 +1,16 @@
+we use java interfaces
+
+Interfaces basically contains abstract functions
+no body of the function is allowed
+
+Bydefault the functions are public and abstract in interfaces
+
+and
+
+variables are static and final bydefault in interfaces,
+you cant change it, using object
+
+
+
+Interface define what the class is doing, not how it is doing it
+

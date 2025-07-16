@@ -1,0 +1,6 @@
+In override, if we have declare one of the method
+static, 
+and we override it, we can override it
+
+but the java in run time always call the static method,
+irrespective of the methods that you are creating in.s
